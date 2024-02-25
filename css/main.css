@@ -1,0 +1,40 @@
+
+
+ /* 12 */
+.avatar{
+    /* margin-left: 25px; */
+}
+
+.avatar img{
+    width: 250px;
+    border-radius: 50%;
+    height: 250px;
+}
+
+.position-applied{
+    font-size:22px;
+}
+
+.me {
+    margin-bottom: 40px;
+}
+.info .bi{
+    margin-right: 10px;
+}
+
+.skill .name-skill{
+    font-weight: bold;
+}
+
+.name-company{
+    font-weight: bold;
+}
+
+.company .content {
+    list-style-position: inside;
+}
+
+.company .job{
+    font-weight: bold;
+    font-style: italic;
+}
